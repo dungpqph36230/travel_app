@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440804325671",
+    "project_id": "my-e-commercial-app-7ccf1",
+    "storage_bucket": "my-e-commercial-app-7ccf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440804325671:android:b98a92f12682ed0a09d102",
+        "android_client_info": {
+          "package_name": "com.example.commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB90-7Vb4H36wEA4wLxEkSHIRge87cxr5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440804325671:android:79a51e32fd3be17709d102",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB90-7Vb4H36wEA4wLxEkSHIRge87cxr5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
